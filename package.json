@@ -1,0 +1,13 @@
+{
+  "name": "jj-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for tracking anniversaries",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.x.x",
+    "dotenv": "^16.x.x"
+  }
+}
